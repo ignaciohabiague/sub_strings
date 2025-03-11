@@ -1,1 +1,1 @@
-# sub_strings
+A Ruby program that counts the number of appearances a string in a dictionary has
