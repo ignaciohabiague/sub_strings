@@ -10,3 +10,6 @@ def substrings(word, dictionary)
     result
 end
 
+dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
+
+puts substrings("Howdy partner, sit down! How's it going?", dictionary)
